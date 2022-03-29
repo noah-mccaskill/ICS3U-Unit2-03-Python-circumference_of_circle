@@ -12,7 +12,7 @@ def main():
 
     # Input
     user_radius = int(input("Enter radius:"))
-    
+
     # Process
     circumference = user_radius * constants.TAU
 
